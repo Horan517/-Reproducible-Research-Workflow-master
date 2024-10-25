@@ -33,6 +33,7 @@ Travel behavior; Individual preferences; Behavioral intentions; Canadian cities
 ## SPECIFICATION TABLE
   
 Subject | Geography   
+-|-
 Specific subject area | Recording residents' perceptive travel behavior changes and their adoption of automated vehicles and mobility tools in major Canadian cities.   
 Type of data | Table [raw] (Format_Original: XLS, Format_Generic: CSV)   
 Data collection | The survey was programmed and administered by Savanta15 (a data and market research company), in both English and French, Canada’s official languages, using unique logical prompts to capture a stratified random sample with a minimum response burden, which is the third key strategy taken throughout the survey design and data collection processes.   
