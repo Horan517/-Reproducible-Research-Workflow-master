@@ -5,10 +5,6 @@ date: "2024-10-20"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## ARTICLE INFORMATION
 ### Article Title
 Future Mobility in Canada Survey (FMCS) dataset
