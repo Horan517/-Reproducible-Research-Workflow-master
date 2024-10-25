@@ -109,13 +109,3 @@ The authors declare that they have no known competing financial interests or per
 Hamiditehrani, S., Scott, D.M. & Sweet, M.N. Design of the “Future Mobility in Canada Survey” (FMCS) to assess the evolving mobility landscape in urban Canada with an emphasis on automated vehicles. Transportation (2024). https://doi.org/10.1007/s11116-024-10484-7   
 ...
 
-```{r}
-install.packages("gitcreds")
-library(gitcreds)
-gitcreds::gitcreds_set()
-
-install.packages("usethis")
-library(usethis)
-usethis::use_git()
-usethis::use_github()
-```
