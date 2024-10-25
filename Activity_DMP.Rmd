@@ -37,7 +37,7 @@ Specific subject area | Recording residents' perceptive travel behavior changes 
 Type of data | Table [raw] (Format_Original: XLS, Format_Generic: CSV)   
 Data collection | The survey was programmed and administered by Savanta15 (a data and market research company), in both English and French, Canada’s official languages, using unique logical prompts to capture a stratified random sample with a minimum response burden, which is the third key strategy taken throughout the survey design and data collection processes.   
 Data source location | The questionnaire was published online but targeted at people living in six Canadian cities (Toronto, Montréal, Vancouver, Ottawa-Gatineau, and Calgary and Hamilton).   
-Data accessibility | Repository name: **??**  
+Data accessibility | Repository name: ... 
 Data identification number: ...    
 Direct URL to data: ...   
 Related research article | Hamiditehrani, S., Scott, D.M. & Sweet, M.N. Design of the “Future Mobility in Canada Survey” (FMCS) to assess the evolving mobility landscape in urban Canada with an emphasis on automated vehicles. Transportation (2024). https://doi.org/10.1007/s11116-024-10484-7  
@@ -110,12 +110,12 @@ Hamiditehrani, S., Scott, D.M. & Sweet, M.N. Design of the “Future Mobility in
 ...
 
 ```{r}
-install.packages("gitcreds")
-library(gitcreds)
-gitcreds::gitcreds_set()
-
-install.packages("usethis")
-library(usethis)
-usethis::use_git()
-usethis::use_github()
+# install.packages("gitcreds")
+# library(gitcreds)
+# gitcreds::gitcreds_set()
+# 
+# install.packages("usethis")
+# library(usethis)
+# usethis::use_git()
+# usethis::use_github()
 ```
